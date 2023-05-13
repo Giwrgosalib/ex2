@@ -4,5 +4,6 @@ public class MainClass {
 	public static void main(String[] args) {
 		String h=Pos.diff(5, 3);
 		System.out.println(h);
+		System.out.println("Hello there!");
 	}
 }
